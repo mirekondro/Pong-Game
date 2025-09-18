@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=PingWorld
+comment1.params=gameStarted
+comment1.target=PingWorld(boolean)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ addEnemyPaddle()
+comment4.params=
+comment4.target=void\ checkButtonClicks()
+comment4.text=\n\ Detekuje\ kliknut\u00ED\ na\ buttony\ obt\u00ED\u017Enosti\n
+comment5.params=
+comment5.target=void\ restartBall()
+comment6.params=b
+comment6.target=void\ activateTopEnemyPaddle(Ball)
+comment7.params=
+comment7.target=void\ topEnemyPaddleHit()
+comment8.params=
+comment8.target=void\ playerScoresGame()
+comment9.params=
+comment9.target=void\ computerScoresGame()
+numComments=10

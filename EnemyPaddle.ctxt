@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=EnemyPaddle
+comment1.params=width\ height\ speed
+comment1.target=EnemyPaddle(int,\ int,\ int)
+comment1.text=\n\ Konstruktor\ s\ mo\u017Enost\u00ED\ zadat\ rozm\u011Bry\ a\ rychlost.\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ tryChangeDirection()
+comment3.text=\n\ Oto\u010D\u00ED\ sm\u011Br,\ kdy\u017E\ paddle\ naraz\u00ED\ na\ prav\u00FD\ okraj\ a\ p\u0159esune\ ho\ na\ lev\u00FD.\n
+comment4.params=
+comment4.target=void\ createImage()
+comment5.params=width\ height
+comment5.target=void\ setSize(int,\ int)
+comment6.params=speed
+comment6.target=void\ setSpeed(int)
+numComments=7

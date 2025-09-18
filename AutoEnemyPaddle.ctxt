@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=AutoEnemyPaddle
+comment0.text=\n\ Horn\u00ED\ paddle\ \u2013\ automaticky\ se\ aktivuje\ po\ odrazu\ od\ hr\u00E1\u010De.\n\ Predikuje,\ kde\ m\u00ED\u010Dek\ dopadne\ v\ \u00FArovni\ p\u00E1lky\ (zohled\u0148uje\ rychlost\ a\ odrazy\ od\ st\u011Bn).\n
+comment1.params=w\ h\ s
+comment1.target=AutoEnemyPaddle(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=ball
+comment3.target=void\ prepareToIntercept(Ball)
+comment3.text=Prediktivn\u00ED\ pohyb\ k\ p\u0159edpokl\u00E1dan\u00E9mu\ m\u00EDstu\ dopadu\ m\u00ED\u010Dku
+comment4.params=
+comment4.target=void\ deactivate()
+comment4.text=po\ z\u00E1sahu\ m\u00ED\u010Dku\ z\u016Fstane\ paddle\ st\u00E1t\ a\ obnov\u00ED\ z\u00E1kladn\u00ED\ rychlost
+comment5.params=
+comment5.target=void\ moveTowardTarget()
+comment6.params=s
+comment6.target=void\ setSpeed(int)
+comment7.params=w\ h
+comment7.target=void\ setSize(int,\ int)
+comment8.params=
+comment8.target=void\ updateImage()
+numComments=9
